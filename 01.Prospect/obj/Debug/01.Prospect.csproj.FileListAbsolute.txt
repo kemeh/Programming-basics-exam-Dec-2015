@@ -1,0 +1,6 @@
+c:\users\scwab\documents\visual studio 2015\Projects\exam\01.Prospect\bin\Debug\01.Prospect.exe.config
+c:\users\scwab\documents\visual studio 2015\Projects\exam\01.Prospect\bin\Debug\01.Prospect.exe
+c:\users\scwab\documents\visual studio 2015\Projects\exam\01.Prospect\bin\Debug\01.Prospect.pdb
+c:\users\scwab\documents\visual studio 2015\Projects\exam\01.Prospect\obj\Debug\01.Prospect.csprojResolveAssemblyReference.cache
+c:\users\scwab\documents\visual studio 2015\Projects\exam\01.Prospect\obj\Debug\01.Prospect.exe
+c:\users\scwab\documents\visual studio 2015\Projects\exam\01.Prospect\obj\Debug\01.Prospect.pdb

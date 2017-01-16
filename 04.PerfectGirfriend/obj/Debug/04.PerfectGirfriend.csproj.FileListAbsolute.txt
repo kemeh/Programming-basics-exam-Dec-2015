@@ -1,0 +1,6 @@
+c:\users\scwab\documents\visual studio 2015\Projects\exam\04.PerfectGirfriend\bin\Debug\04.PerfectGirfriend.exe.config
+c:\users\scwab\documents\visual studio 2015\Projects\exam\04.PerfectGirfriend\bin\Debug\04.PerfectGirfriend.exe
+c:\users\scwab\documents\visual studio 2015\Projects\exam\04.PerfectGirfriend\bin\Debug\04.PerfectGirfriend.pdb
+c:\users\scwab\documents\visual studio 2015\Projects\exam\04.PerfectGirfriend\obj\Debug\04.PerfectGirfriend.csprojResolveAssemblyReference.cache
+c:\users\scwab\documents\visual studio 2015\Projects\exam\04.PerfectGirfriend\obj\Debug\04.PerfectGirfriend.exe
+c:\users\scwab\documents\visual studio 2015\Projects\exam\04.PerfectGirfriend\obj\Debug\04.PerfectGirfriend.pdb

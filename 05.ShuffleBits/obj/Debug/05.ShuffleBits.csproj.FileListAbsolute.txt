@@ -1,0 +1,6 @@
+C:\Users\scwab\Documents\Visual Studio 2015\Projects\exam\05.ShuffleBits\bin\Debug\05.ShuffleBits.exe.config
+C:\Users\scwab\Documents\Visual Studio 2015\Projects\exam\05.ShuffleBits\bin\Debug\05.ShuffleBits.exe
+C:\Users\scwab\Documents\Visual Studio 2015\Projects\exam\05.ShuffleBits\bin\Debug\05.ShuffleBits.pdb
+C:\Users\scwab\Documents\Visual Studio 2015\Projects\exam\05.ShuffleBits\obj\Debug\05.ShuffleBits.csprojResolveAssemblyReference.cache
+C:\Users\scwab\Documents\Visual Studio 2015\Projects\exam\05.ShuffleBits\obj\Debug\05.ShuffleBits.exe
+C:\Users\scwab\Documents\Visual Studio 2015\Projects\exam\05.ShuffleBits\obj\Debug\05.ShuffleBits.pdb
